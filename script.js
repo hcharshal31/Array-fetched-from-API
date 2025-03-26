@@ -1,7 +1,7 @@
 function showData(){
     setTimeout(()=>{
         PromiseAPI1();
-    }, 2000)
+    }, 1000)
 }
 
 const PromiseAPI1 = async () => {
